@@ -3,8 +3,8 @@
 
 **Project Leader:** Abarajitha K.R  
 **Guide:** Dr. Gayathri V  
-**Department:** Computer Science and Engineering  
-**Institution:** PRIET (as shown on the project poster)
+**Department:** BE CSE cyber security  
+**Institution:** KPRIET 
 
 ## 1. Introduction
 
