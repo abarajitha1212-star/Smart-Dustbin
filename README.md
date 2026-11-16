@@ -43,12 +43,16 @@ The above describes the **intended concept** shown in the project material. Actu
 
 ## Repository contents
 
-- `README.md` – project overview and GitHub landing page.
-- `components.md` – component list and general purpose.
-- `working-principle.md` – proposed working concept and prototype limitations.
-- `project_report.pdf` – printable project documentation.
-- `docs/project_report.md` – editable report source.
-- `smart_dustbin_project_photo.jpg` – project poster, prototype and team photograph supplied by the project team.
+## Repository Content
+
+```text
+Smart-Dustbin/
+│
+├── README.md
+├── project_report.md
+├── project_report.pdf
+└── smart_dustbin_project_photo.jpg
+```
 
 ## Project scope and limitations
 
