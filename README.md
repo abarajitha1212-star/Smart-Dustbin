@@ -77,11 +77,11 @@ These are potential application areas for the concept, not confirmed deployments
 
 ## Team details
 
-- Project title: Smart Dustbin
+- Project title       : Smart Dustbin
 - Project leader name : Abarajitha K.R
-- Guide name : Dr. Gayathri V
-- Department: BE CSE Cyber Security
-- Institution name: KPRIET
+- Guide name          : Dr. Gayathri V
+- Department          : BE CSE Cyber Security
+- Institution name    : KPRIET
 
 ## Usage Note
 
