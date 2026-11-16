@@ -77,10 +77,10 @@ Open `docs/project_report.pdf` in any PDF reader. The project photograph is avai
 ## Team details
 
 - Project title: Smart Dustbin
-- Project leader name shown on poster: Abarajitha K.R
-- Guide name shown on poster: Dr. Gayathri V
+- Project leader name : Abarajitha K.R
+- Guide name : Dr. Gayathri V
 - Department: BE CSE Cyber Security
-- Institution logo/name shown on poster: KPRIET
+- Institution name: KPRIET
 
 ## License
 
