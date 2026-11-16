@@ -1,42 +1,32 @@
-# UPLOAD INSTRUCTIONS
+# GitHub Repository Update Instructions
 
-## Smart Dustbin 
+## Update Existing Smart-Dustbin Repository
 
-### 1. Open the Repository
-Visit the existing GitHub repository:
+Repository Name: Smart-Dustbin
 
-https://github.com/abarajitha1212-star/Smart-Dustbin
+Repository URL: https://github.com/abarajitha1212-star/Smart-Dustbin
 
-### 2. View Project Files
-Open the repository to view the following files:
+### Steps to Update Files
 
-- README.md
-- components.md
-- working-principle.md
-- project_report.md
-- project_report.pdf
-- smart_dustbin_project_photo.jpg
+1. Sign in to your GitHub account.
+2. Open the existing Smart-Dustbin repository.
+3. Select the file you want to update.
+4. Click the Edit (Pencil) icon to modify Markdown files.
+5. For PDF or image updates, select Add file → Upload files.
+6. Upload the corrected file using the same existing filename.
+7. Replace the old file when prompted.
+8. Enter a suitable commit message.
+9. Click Commit changes.
 
-### 3. View the Project Report
-Click `project_report.pdf` to view or download the project report.
+### Important Notes
 
-### 4. View Project Documentation
-Open the Markdown files to read the project details directly on GitHub.
+- Do not create a duplicate repository.
+- Keep the existing project structure.
+- Ensure all file names and links are correct.
+- Keep the README and project report consistent.
+- Verify the updated PDF after uploading.
+- Do not claim untested hardware functionality.
 
-### 5. Download the Project
-1. Open the repository.
-2. Click the Code button.
-3. Select Download ZIP.
-4. Extract the ZIP file on your device.
+### Final Verification
 
-### 6. Update Project Files
-1. Open the required file in the repository.
-2. Click the Edit (Pencil) icon.
-3. Make the necessary changes.
-4. Click Commit Changes to save.
-
-### 7. Important Note
-This project represents a dummy model and proposed working concept. Actual hardware implementation and complete automation are not claimed.
-
-**Repository:** Smart-Dustbin  
-**Platform:** GitHub
+Check the README, components list, working principle, project report, PDF and project photograph before considering the repository complete.
