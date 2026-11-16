@@ -1,6 +1,6 @@
 # UPLOAD INSTRUCTIONS
 
-## Smart Dustbin Project
+## Smart Dustbin 
 
 ### 1. Open the Repository
 Visit the existing GitHub repository:
