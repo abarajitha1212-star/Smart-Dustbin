@@ -41,8 +41,6 @@ The model has two compartments labelled **WET** and **DRY**. The idea is that wa
 
 The above describes the **intended concept** shown in the project material. Actual automatic detection, sorting accuracy and full-bin alerts have not been verified for this dummy model.
 
-## Repository contents
-
 ## Repository Content
 
 ```text
@@ -72,7 +70,7 @@ These are potential application areas for the concept, not confirmed deployments
 
 ## How to view the documentation
 
-Open `docs/project_report.pdf` in any PDF reader. The project photograph is available in the `assets` folder.
+Open project_report.pdf` in any PDF reader. The project photograph is available in the `smart_dustbin_project_photo.jpg` folder.
 
 ## Team details
 
@@ -82,6 +80,7 @@ Open `docs/project_report.pdf` in any PDF reader. The project photograph is avai
 - Department: BE CSE Cyber Security
 - Institution name: KPRIET
 
-## License
+## Usage Note
 
-For academic demonstration and learning. Add a formal license only if your team has agreed on one.
+This project is developed for academic
+and educational purposes.
