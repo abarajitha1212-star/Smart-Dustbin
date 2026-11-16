@@ -41,17 +41,16 @@ The model has two compartments labelled **WET** and **DRY**. The idea is that wa
 
 The above describes the **intended concept** shown in the project material. Actual automatic detection, sorting accuracy and full-bin alerts have not been verified for this dummy model.
 
-## Repository Content
+## Repository contents
 
-```text
-Smart-Dustbin/
-│
-├── README.md
-├── project_report.md
-├── project_report.pdf
-└── smart_dustbin_project_photo.jpg
-```
+All project files are available directly in the main repository folder.
 
+- `README.md` – Project overview and GitHub landing page.
+- `components.md` – Component list and their general purpose.
+- `working-principle.md` – Proposed working concept and prototype limitations.
+- `project_report.pdf` – Printable project documentation.
+- `project_report.md` – Editable project report.
+- `smart_dustbin_project_photo.jpg` – Project poster, prototype and team photograph.
 ## Project scope and limitations
 
 - This is a demonstration / dummy model, not a certified waste-management device.
@@ -70,7 +69,11 @@ These are potential application areas for the concept, not confirmed deployments
 
 ## How to view the documentation
 
-Open project_report.pdf` in any PDF reader. The project photograph is available in the `smart_dustbin_project_photo.jpg` folder.
+1. Open `project_report.pdf` from the main repository page.
+2. Click the PDF file to preview the project report.
+3. Download the PDF to view it on your mobile or computer.
+4. Open `smart_dustbin_project_photo.jpg` to view the project photograph.
+5. Open the Markdown files to read the project details.
 
 ## Team details
 
