@@ -72,15 +72,15 @@ These are potential application areas for the concept, not confirmed deployments
 
 ## How to view the documentation
 
-Open `docs/project_report.pdf` in any PDF reader. The project photograph is available in the `assets` folder.
+Open project_report.pdf` in any PDF reader. The project photograph is available in the `assets` folder.
 
 ## Team details
 
 - Project title: Smart Dustbin
 - Project leader name shown on poster: Abarajitha K.R
 - Guide name shown on poster: Dr. Gayathri V
-- Department: Computer Science and Engineering
-- Institution logo/name shown on poster: PRIET
+- Department: BE CSE Cyber Security
+- Institution logo/name shown on poster: KPRIET
 
 ## License
 
