@@ -72,7 +72,7 @@ These are potential application areas for the concept, not confirmed deployments
 
 ## How to view the documentation
 
-Open project_report.pdf` in any PDF reader. The project photograph is available in the `assets` folder.
+Open `docs/project_report.pdf` in any PDF reader. The project photograph is available in the `assets` folder.
 
 ## Team details
 
