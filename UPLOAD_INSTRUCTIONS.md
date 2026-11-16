@@ -1,12 +1,26 @@
-# Upload to GitHub
+# GitHub Upload Instructions
 
-1. Sign in at https://github.com/.
-2. Open your existing Smart Dustbin repository, or create a new repository named `Smart-Dustbin-Project`.
-3. Choose **Add file → Upload files**.
-4. Extract this ZIP on your computer.
-5. Open the extracted `Smart-Dustbin-Project` folder and select its contents (README.md, components.md, working-principle.md, docs, assets).
-6. Drag the selected files and folders into the GitHub upload area.
-7. Enter a commit message such as `Add Smart Dustbin project documentation`.
-8. Click **Commit changes**.
+## Repository Details
+- Project Name: Smart Dustbin
+- Repository Name: Smart-Dustbin
+- Branch: main
 
-Keep the repository public only if your team is comfortable sharing the project photos and names publicly. Otherwise choose Private.
+## Files Included
+- README.md
+- components.md
+- working-principle.md
+- project_report.md
+- project_report.pdf
+- smart_dustbin_project_photo.jpg
+
+## How to View the Project
+1. Open the Smart-Dustbin GitHub repository.
+2. Read README.md for the project introduction.
+3. Open components.md to view the components.
+4. Open working-principle.md to understand the working concept.
+5. Open project_report.md for the complete project details.
+6. Open project_report.pdf to view the report.
+7. Open smart_dustbin_project_photo.jpg to view the project photograph.
+
+## Note
+This project is a college-level dummy model of a Smart Dustbin for wet and dry waste segregation. It demonstrates the basic concept and is not a fully automated working system.
